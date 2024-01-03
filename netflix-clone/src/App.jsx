@@ -7,7 +7,7 @@ export default function App() {
     <input type="email" id="email" name="email" required>
 
     <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required>
+    <input type="password" id="password" name="password" required />
 
     <label for="plan">Select Plan:</label>
     <select id="plan" name="plan" required>
