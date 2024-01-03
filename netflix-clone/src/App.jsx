@@ -4,7 +4,7 @@ export default function App() {
      <h1>Netflix Subscription</h1>
   <form id="subscription-form">
     <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required />
 
     <label for="password">Password:</label>
     <input type="password" id="password" name="password" required />
